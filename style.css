@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #00FFFF;
 }
 
 #header
 {
-	background: #ccc;
+	background: #FF0000;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #FF00FF;
 }
 
 #navigation ul
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #FF0000;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
